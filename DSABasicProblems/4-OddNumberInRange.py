@@ -1,4 +1,4 @@
-#Write a program to find only even numbers in a given range 
+#Write a program to find only ODD numbers in a given range 
 print("Write a Program to find the odd number from A to B or B to A where A and B are Positive Numbers")
 
 # defining from where to start or where to end
